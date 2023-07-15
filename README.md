@@ -5,7 +5,6 @@
 This is the GitHub repository to document various ETL data pipelines I designed using AWS. 
 
 ## What is ETL?
-
 Extract, Transform and Load (ETL) us a fundamental framework for streamlining data processing workflows. ETL pipelines facilitate the efficient extraction of data from diverse sources, transformation into a usable format, and loading into designated destinations for analysis.
 
 #### Extract 
