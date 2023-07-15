@@ -19,6 +19,7 @@ Load the data to AWS Athena for query and analysis and save the result files to 
 ## ETL Diagrams
 #### Project 1
 Extra public listing data from eBay.com using the Python script, transformed the data in AWS Glue and load the transformed data to AWS Athena for further analysis  
+
 ![](ETL_diagram.png)
 
 ## ETL Data Pipeline Implementation on AWS  
