@@ -20,7 +20,7 @@ The transformed data is loaded into a target database or data warehouse, where i
 #### ETL Diagrams
 Extra public listing data from eBay.com using the Python script, transformed the data in AWS Glue and load the transformed data to AWS Athena for further analysis  
 
-![](ETL_diagram.png)
+![](Project1/ETL_diagram.png)
 
 #### ETL Data Pipeline Implementation on AWS  
 To demonstrate the implementation of the ETL data pipelines on AWS, I have created blog posts on Medium.com to document the process.
@@ -30,5 +30,8 @@ To demonstrate the implementation of the ETL data pipelines on AWS, I have creat
   Manipulate and transform the output csv file using AWS Glue and load the data to AWS Athena for query and analysis and save the result files to an S3 bucket 
 [How to Create a Powerful ETL Data Pipeline with Python and AWS Services](https://medium.com/@aimee.tang0317/how-to-create-a-powerful-etl-data-pipeline-with-python-and-aws-services-6ad8ddd7ca1b)
 
-## Project 2 (Databricks)
+## Project 2 (Apache Airflow, Python and PostgreSQL)
+TBU
+
+## Project 3 (Databricks)
 TBU
